@@ -1,6 +1,5 @@
 # Hi there, I'm John Ortiz Ordoñez! 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Fhernd)
 [![GitHub followers](https://img.shields.io/github/followers/Fhernd?label=Follow&style=social)](https://github.com/Fhernd)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ing.johnortizordonez?style=social)](https://web.facebook.com/ing.johnortizordonez/)
 
